@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+</head>
+<body>
+    <h1>Nithin Kumar Reddy</h1>
+    <h2>I am currently doing internship in Saredufy</h2>
+    <h2>My technical Skills are Java,C and Python</h2>
+    <h2>7569332095</h2>
+</body>
+</html>
