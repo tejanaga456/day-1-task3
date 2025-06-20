@@ -6,9 +6,9 @@
     <title>Profile</title>
 </head>
 <body>
-    <h1>Nithin Kumar Reddy</h1>
+    <h1>Koneti Naga Teja</h1>
     <h2>I am currently doing internship in Saredufy</h2>
     <h2>My technical Skills are Java,C and Python</h2>
-    <h2>7569332095</h2>
+    <h2>9347589943</h2>
 </body>
 </html>
