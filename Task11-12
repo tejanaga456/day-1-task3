@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Layout</title>
+</head>
+<body>
+    <h1 style="color:aqua">Best of the Week</h1>
+    <h2>Post about Current Affairs</h2>
+    <h3 style="color: brown;">the june month is full of affairs that are very useful for everyone</h3>
+</body>
+</html>
