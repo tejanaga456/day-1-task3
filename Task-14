@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seminar tech</title>
+</head>
+<body>
+    <h1>Seminar about Web Development</h1>
+    <h2>Date:15-06-25<br>Time:11:00 PM</h2>
+    <h3>The Speakers are teja,Saran</h3>
+    <h4>The topics that are going to be covered are Web Development</h4>
+</body>
