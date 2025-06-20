@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragraph Styles</title>
+</head>
+<body>
+    <p><b>Web development</b> is the process of <i>creating, building, and maintaining</i> websites and web applications. It involves everything from web design to <u> programming and database management</u>. Web development is generally divided into three core areas: Frontend Development, Backend Development, and Full Stack Development.</p>
+    <p>The Chemical formula for water is H<sub>2</sub>O</p>
+    <p>The Einstein Equation is MC<sup>2</sup></p>
+    <blockquote>"Never Give Up"</blockquote>
+    <p>use the <code>printf()</code>to display information</p>
+    <pre>
+        #include<stdio.h>
+        int main()
+        {
+            printf("hello world");
+        }
+    </pre>
+    <p>My Favourite Subject is <mark>Maths</mark>.It is the subject where we use more in <mark>Real earth</mark></p>
+    <p>This product costs <del>$100</del> <ins>$80</ins> now</p>
+    <p><abbr title="Hyper Text Markup Language">HTMl</abbr> is the standard markup language used to create and design web pages, defining their structure and layout.</p>
+    <p>This is a para of <b>Bold</b> tag, <i>Italic</i> tag,<u>Underline</u>tag, <mark>Mark</mark> tag/</p>
+    <pre>
+        Beneath the sky, so vast, so blue,
+        Dreams take flight, both old and new,
+        Whispers of hope weave life anew.
+    </pre>
+    <p>We all know that HTMl is <b><i><u>Important</u></i></b></p>
+</body>
+</html>
