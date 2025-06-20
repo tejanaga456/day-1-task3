@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Layout</title>
+</head>
+<body>
+    <h1>JAVA</h1>
+    <h2>Introduction to JAVA</h2>
+    <h3>Structure of JAVA</h3>
+    <h3>Tokens</h3>
+    <h2>Classes</h2>
+    <h3>About Classes</h3>
+    <h3>About Objects</h3>
+</body>
+</html>
